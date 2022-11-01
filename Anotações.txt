@@ -1,0 +1,21 @@
+Git - O GIT é um Sistema de Controle de Versões Distribuído.
+
+Git Bash - O Git Bash é o aplicativo para ambientes do Microsoft Windows que oferece a camada de emulação para a experiência de linha de comando Git.
+
+GItHub - O GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão.
+
+Git x GitHub - O Git é um software de controle de versão, já o GitHub é como se fosse uma rede social de pessoas desenvolvedoras, ou seja, uma plataforma na qual podem compartilhar projetos.
+
+============= / / ============= / / ============= / / ============= / / =============
+
+COMANDOS ÚTEIS PARA O PROJETO:
+
+ - git clone / consiste num código responsável para o download de um código-fonte de um repositório.
+ - git init / permite iniciar um repositório git.
+ - git add / para incluir as alterações de um ou vários arquivos no próximo commit.
+ - git commit (-m "mensagem do commit") / serve para gerar um novo commit com uma mensagem.
+ - git branch "nome-da-branch" / usa-se este comando para criar uma branch além da principal.
+ - git checkout "nome-da-branch" / comando utilizado para entrar numa branch já existente.  (atalho pra criação de branch no chekout = git checkout -b "nome-da-branch").
+ - git merge "branch-selecionada" / comando usado para atrelar uma brench selecionada com a branch atualmente aberta.
+ - git status / comando que mostra o estado do repositório e as pendências nele.
+ - git push / comando para o upload do repositório para o estado remoto. (normalmente = git push origin "nome-da-branch").
